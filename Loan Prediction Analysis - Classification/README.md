@@ -40,6 +40,6 @@ Loan_Status | Loan approved (Y/N)
 <li>Random Forest
 <li>Extra Tress
   
-**Best Model Accuracy:** 81.00 **
+**Best Model Accuracy:** 81.00
    
 Resource: **Complete Video Tutorial**: https://youtu.be/zDwxGxiNFSo
