@@ -1,6 +1,6 @@
 # Loan Prediction Analysis - Classification
 
-Resource: **Complete Video Tutorial:** https://youtu.be/zDwxGxiNFSo
+
 
 # Dataset Information
 
@@ -24,7 +24,7 @@ Credit_History | credit history meets guidelines
 Property_Area | Urban/ Semi Urban/ Rural
 Loan_Status | Loan approved (Y/N)
 
-**Download link:** https://www.kaggle.com/altruistdelhite04/loan-prediction-problem-dataset
+**Data Download link:** https://www.kaggle.com/altruistdelhite04/loan-prediction-problem-dataset
 
 # Libraries
 
@@ -40,4 +40,6 @@ Loan_Status | Loan approved (Y/N)
 <li>Random Forest
 <li>Extra Tress
   
-**Best Model Accuracy:** 81.00
+**Best Model Accuracy:** 81.00 **
+   
+Resource: **Complete Video Tutorial**: https://youtu.be/zDwxGxiNFSo
