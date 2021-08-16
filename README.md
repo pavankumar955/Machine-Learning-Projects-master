@@ -1,4 +1,4 @@
-# Machine Learning Projects
+# Machine Learning Project
 This repository contains mini project in machine learning with jupyter notebook files.
 Go to the projects folder and see the readme for detailed instructions about the projects.
 
